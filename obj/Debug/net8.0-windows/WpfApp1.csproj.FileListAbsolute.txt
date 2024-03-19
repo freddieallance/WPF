@@ -62,3 +62,7 @@ C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\Styles\UI
 C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\App.baml
 C:\Users\Freddie Allance\source\repos\WpfApp1\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
 C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\View\CustomerView.g.cs
+C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\View\HomeView.g.cs
+C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\View\CustomerView.baml
+C:\Users\Freddie Allance\source\repos\WpfApp1\obj\Debug\net8.0-windows\View\HomeView.baml
